@@ -1,0 +1,8 @@
+# игнор папки tmp
+tmp/
+# игнор _old и backup
+*.html_old
+*.png_backup
+# Доп файлы
+Thumbs.db
+.DS_Store
